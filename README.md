@@ -1,7 +1,7 @@
-Guten Tag, I'm Lena, a 4th year student at the University of Limerick
+Guten Tag, I'm Lena, a recent Computer Games graduate from the University of Limerick
 
-- 🌱 I’m currently learning Python, and C++.
-- 🔭 I’m currently working on my final year project, a mathematics game for secondary students.
+- 🌱 I’m currently learning Python, Go and C++.
+- 🔭 I’m  working on a RPG game while also developing skills in backend development (Python + Django).
 - 😀 I like to code, game and growing crops (in Stardew and real life).
 - ⚡ Fun fact: I quote Bob Belcher almost every day 
 
