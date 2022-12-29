@@ -1,6 +1,6 @@
 Guten Tag, I'm Lena, a recent Computer Games graduate from the University of Limerick
 
-- 🌱 I’m currently learning Python, Go and C++.
+- 🌱 I’m currently learning Python, Go and Terraform.
 - 🔭 I’m  working on a RPG game while also developing skills in backend development (Python + Django).
 - 😀 I like to code, game and growing crops (in Stardew and real life).
 - ⚡ Fun fact: I quote Bob Belcher almost every day 
