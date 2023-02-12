@@ -1,7 +1,7 @@
-Guten Tag, I'm Lena, a recent Computer Games graduate from the University of Limerick
+Guten Tag, I'm Lena, a Software Engineer with a BSc in Computer Games Development from the University of Limerick.
 
 - 🌱 I’m currently learning Python, Go and Terraform.
-- 🔭 I’m  working on a RPG game while also developing skills in backend development (Python + Django).
+- 🔭 I’m  working on Azure Pipelines and implementing DevOps principles.
 - 😀 I like to code, game and growing crops (in Stardew and real life).
 - ⚡ Fun fact: I quote Bob Belcher almost every day 
 
